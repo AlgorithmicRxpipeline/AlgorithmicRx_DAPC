@@ -26,4 +26,4 @@ therapeutic development for rare diseases, beginning with Duchenne Muscular Dyst
 More: https://www.algorithmicrx.com
 ```
 
-Go ahead, paste that in, and commit. Once that's done, ready for the next grant question.
+
